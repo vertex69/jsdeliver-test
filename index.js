@@ -9,5 +9,5 @@ signUpButton.addEventListener("click", () => {
 
 modalForm.addEventListener("click", () => {
   modalForm.style.display = "none";
-  body.style.overflow = "flex";
+  body.style.overflow = "scroll";
 });
